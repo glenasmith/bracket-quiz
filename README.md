@@ -11,6 +11,7 @@ Read more deatils of the challenge on my [Blog](http://blogs.bytecode.com.au/gle
 
 Looking forward to your creative solutions!
 
-Glen.
+Glen
+
 
 
